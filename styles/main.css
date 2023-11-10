@@ -7,6 +7,7 @@ padding: 1rem;
 .card__head{
     height: 100%;
     display: flex;
+    margin-top: -115px;
 }
 .card__body{
 
@@ -15,6 +16,7 @@ padding: 1rem;
     border-bottom: 2px black solid;
     font-size: 2em;
     font-weight: 600;
+    
 }
 body{
     background-image: url(../imgs/bg.webp);
